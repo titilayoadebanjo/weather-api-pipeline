@@ -1,9 +1,9 @@
-https://img.shields.io/badge/Python-3.12-blue
-https://img.shields.io/badge/Apache%20Airflow-Orchestration-red
-https://img.shields.io/badge/PostgreSQL-Database-blue
-https://img.shields.io/badge/PowerBI-Dashboard-yellow
-https://img.shields.io/badge/Docker-Containerisation-blue
 # Weather Data Engineering Pipeline with Data Quality Validation and Power BI Reporting
+![Python](https://img.shields.io/badge/Python-3.12-blue
+![Apache Airflow] (https://img.shields.io/badge/Apache%20Airflow-Orchestration-red
+![PostgreSQL] (https://img.shields.io/badge/PostgreSQL-Database-blue
+![Power BI] (https://img.shields.io/badge/PowerBI-Dashboard-yellow
+![Docker] (https://img.shields.io/badge/Docker-Containerisation-blue
 
 ## Project Overview
 
